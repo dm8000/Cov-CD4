@@ -8,9 +8,9 @@ Data that was extracted from multiple databases used in the preprint https://www
 
 # T4.txt
 2. This table was used to generate extended Figure 3a.
-   - The data were extracted from the following sources:
+  - The data were extracted from the following sources:
     - Viral interaction data was extracted from http://phipster.org 
-   - Plasma membrane genes:
+  - Plasma membrane genes:
     - https://www.proteinatlas.org (predicted membrane proteins that are not secreted)
     - https://maayanlab.cloud/Enrichr/ (Jensen compartments libraries for Cell Surface, Plasma Membrane and External Side of Plasma Membrane)
     - http://amigo.geneontology.org/amigo/ (GO:0005887)
