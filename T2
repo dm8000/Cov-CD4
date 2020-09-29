@@ -1,0 +1,20 @@
+	ACE2	TMPRSS2	CD4
+Duodenum	High	Low	Not detected
+Small intestine	High	Low	Not detected
+Gallbladder	High	Not detected	Not detected
+Kidney	High	High	Not detected
+Testis	High	Not detected	Not detected
+Adrenal Gland	Low	Not detected	Not detected
+Colon	Low	Not detected	Not detected
+Rectum	Low	Low	Not detected
+Seminal Vesicle	Low	Low	Not detected
+Thyroid gland	Not detected	Med	Not detected
+Stomach	Not detected	Med	Not detected
+Pancreas	Not detected	Med	Not detected
+Epididymis	Not detected	Med	Not detected
+Prostate	Not detected	Med	Not detected
+Salivary gland	Not detected	Low	Not detected
+Appendix	Not detected	Low	Med
+Spleen	Not detected	Not detected	Med
+Tonsil	Not detected	Not detected	Med
+Bone marrow	Not detected	Not detected	Med
