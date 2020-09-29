@@ -1,0 +1,155 @@
+Gene	Origin	Top 25 CD4 expression	ACE2	TMPRSS2	CD4
+thymus 	Tissue	Y	0.2	0.5	111.5
+parathyroid gland 	Tissue	Y	0	0	78.4
+spleen 	Tissue	Y	0.2	0.3	49.1
+dendritic cells 	Tissue	Y	0	0	46.7
+plasmacytoid DC 	Blood	Y	0	0	46.7
+monocytes 	Tissue	Y	0	0	42.5
+intermediate monocyte 	Blood	Y	0	0	42.5
+classical monocyte 	Blood	Y	0	0	42.2
+THP-1 	Cell culture	Y	0	0	38.1
+U-937 	Cell culture	Y	0	0	35.9
+total PBMC 	Tissue	Y	0	0.4	33.6
+total PBMC 	Blood	Y	0	0.4	33.6
+HEL 	Cell culture	Y	0	0	33.5
+non-classical monocyte 	Blood	Y	0	0	33.3
+liver 	Tissue	Y	1.2	18.4	32.2
+lymph node 	Tissue	Y	0.6	0.2	30.8
+myeloid DC 	Blood	Y	0	0	29.3
+T-cells 	Tissue	Y	0.3	0	29.1
+memory CD4 T-cell 	Blood	Y	0	0	29.1
+T-reg 	Blood	Y	0	0	26.4
+naive CD4 T-cell 	Blood	Y	0	0	24.8
+lung 	Tissue	Y	0.8	20.7	24
+NB-4 	Cell culture	Y	2.2	0.5	19.3
+tonsil 	Tissue	Y	0.2	10.2	18.6
+appendix 	Tissue	Y	0.8	15.5	16
+adipose tissue 	Tissue	N	4.5	0.2	13.8
+HL-60 	Cell culture	N	0	0	13.5
+placenta 	Tissue	N	1	1	10.9
+spinal cord 	Tissue	N	0.2	0.2	10.2
+small intestine 	Tissue	N	122	75.6	9.5
+corpus callosum 	Tissue	N	0.2	0.4	8.6
+urinary bladder 	Tissue	N	0.4	5.9	8.6
+epididymis 	Tissue	N	2.7	0.9	8.3
+gallbladder 	Tissue	N	16.4	17.3	7.3
+rectum 	Tissue	N	1.3	18.5	6.5
+midbrain 	Tissue	N	0.2	0.2	6.3
+midbrain 	Brain	N	0.2	0.2	6.3
+pons and medulla 	Tissue	N	0.2	0.4	6.2
+pons and medulla 	Brain	N	0.2	0.4	6.2
+amygdala 	Tissue	N	0.2	0.2	6.1
+kidney 	Tissue	N	23.2	19.4	6.1
+amygdala 	Brain	N	0.2	0.2	6.1
+basal ganglia 	Tissue	N	0.2	0.4	5.8
+basal ganglia 	Brain	N	0.2	0.4	5.8
+retina 	Tissue	N	0.2	0.3	5.7
+thalamus 	Tissue	N	0.2	0.3	5.7
+thalamus 	Brain	N	0.2	0.3	5.7
+breast 	Tissue	N	2.3	6.1	5.6
+fallopian tube 	Tissue	N	0.6	2.2	5.5
+adrenal gland 	Tissue	N	0.4	0.1	5.4
+heart muscle 	Tissue	N	10.5	0.2	5.4
+salivary gland 	Tissue	N	1.1	52.3	5.4
+smooth muscle 	Tissue	N	0.3	0.9	5.2
+colon 	Tissue	N	49.1	38.7	5.1
+hippocampal formation 	Tissue	N	0.2	0.3	4.9
+hippocampal formation 	Brain	N	0.2	0.3	4.9
+MOLT-4 	Cell culture	N	0	0.1	4.8
+cervix, uterine 	Tissue	N	0.4	1.3	4.5
+bone marrow 	Tissue	N	0	0	4.4
+hypothalamus 	Tissue	N	0.1	0.1	4.4
+hypothalamus 	Brain	N	0.1	0.1	4.4
+cerebral cortex 	Tissue	N	0.2	0.5	4.3
+cerebral cortex 	Brain	N	0.2	0.5	4.3
+prostate 	Tissue	N	0.5	68.2	4.1
+tongue 	Tissue	N	0.5	3.9	4.1
+RPMI-8226 	Cell culture	N	2	1.4	4.1
+seminal vesicle 	Tissue	N	1.2	35.7	3.9
+stomach 1 	Tissue	N	0.5	36.7	3.9
+thyroid gland 	Tissue	N	4.5	19.9	3.9
+HHSteC 	Cell culture	N	0	0	3.7
+duodenum 	Tissue	N	46	17.5	3.6
+endometrium 1 	Tissue	N	0.4	0.5	3.5
+skin 1 	Tissue	N	0.2	2.1	3.5
+pituitary gland 	Tissue	N	0.2	1.3	3.4
+vagina 	Tissue	N	0.9	4.3	3.2
+olfactory region 	Tissue	N	0.2	0.2	3.1
+pancreas 	Tissue	N	1.6	64.5	3.1
+olfactory region 	Brain	N	0.2	0.2	3.1
+esophagus 	Tissue	N	1.2	10.7	3
+ovary 	Tissue	N	1.3	0.7	3
+testis 	Tissue	N	17.9	0.8	2.8
+skeletal muscle 	Tissue	N	0.7	0.2	1.9
+granulocytes 	Tissue	N	0.2	0	1.9
+neutrophil 	Blood	N	0.2	0	1.9
+ductus deferens 	Tissue	N	2.3	24.4	1.8
+HDLM-2 	Cell culture	N	0.1	0	1.7
+cerebellum 	Tissue	N	0.2	0.2	1.2
+AF22 	Cell culture	N	0.4	0	1.2
+cerebellum 	Brain	N	0.2	0.2	1.2
+MAIT T-cell 	Blood	N	0.3	0	1.1
+BJ hTERT+ 	Cell culture	N	0	0	0.8
+NK-cells 	Tissue	N	0	0	0.3
+NTERA-2 	Cell culture	N	0.1	1.3	0.3
+eosinophil 	Blood	N	0	0	0.3
+gdT-cell 	Blood	N	0	0	0.3
+NK-cell 	Blood	N	0	0	0.3
+Hep G2 	Cell culture	N	2.4	2	0.2
+B-cells 	Tissue	N	0	0	0.1
+BEWO 	Cell culture	N	2.4	1.3	0.1
+Daudi 	Cell culture	N	0	0	0.1
+SCLC-21H 	Cell culture	N	0.6	0	0.1
+basophil 	Blood	N	0	0	0.1
+memory CD8 T-cell 	Blood	N	0	0	0.1
+naive B-cell 	Blood	N	0	0	0.1
+naive CD8 T-cell 	Blood	N	0	0	0.1
+A-431 	Cell culture	N	0.2	0	0
+A549 	Cell culture	N	0	0	0
+AN3-CA 	Cell culture	N	0	0	0
+ASC diff 	Cell culture	N	0.7	0	0
+ASC TERT1 	Cell culture	N	0	0	0
+BJ 	Cell culture	N	0	0	0
+BJ hTERT+ SV40 Large T+ 	Cell culture	N	0	0	0
+BJ hTERT+ SV40 Large T+ RasG12V 	Cell culture	N	0	0	0
+CACO-2 	Cell culture	N	0	14.6	0
+CAPAN-2 	Cell culture	N	1.3	1.9	0
+EFO-21 	Cell culture	N	0.6	0.1	0
+fHDF/TERT166 	Cell culture	N	0	0	0
+HaCaT 	Cell culture	N	4.1	0	0
+HAP1 	Cell culture	N	0.2	0	0
+HBEC3-KT 	Cell culture	N	0.1	0	0
+HBF TERT88 	Cell culture	N	0	0	0
+HEK 293 	Cell culture	N	0.1	0	0
+HeLa 	Cell culture	N	0	0	0
+HMC-1 	Cell culture	N	0	0.1	0
+HSkMC 	Cell culture	N	0	0	0
+hTCEpi 	Cell culture	N	0.3	0	0
+hTEC/SVTERT24-B 	Cell culture	N	0	0	0
+hTERT-HME1 	Cell culture	N	0.2	0	0
+HUVEC TERT2 	Cell culture	N	0.1	0	0
+K-562 	Cell culture	N	0	0	0
+Karpas-707 	Cell culture	N	0	0	0
+LHCN-M2 	Cell culture	N	0	0	0
+MCF7 	Cell culture	N	0	6.3	0
+PC-3 	Cell culture	N	0.2	0	0
+REH 	Cell culture	N	0	0	0
+RH-30 	Cell culture	N	0	0	0
+RPTEC TERT1 	Cell culture	N	0.4	0.6	0
+RT4 	Cell culture	N	2.4	35.2	0
+SH-SY5Y 	Cell culture	N	2.8	0.4	0
+SiHa 	Cell culture	N	0.1	0	0
+SK-BR-3 	Cell culture	N	0.3	7.2	0
+SK-MEL-30 	Cell culture	N	0.2	0.1	0
+T-47d 	Cell culture	N	0.2	5.4	0
+TIME 	Cell culture	N	0	0	0
+U-138 MG 	Cell culture	N	0	0	0
+U-2 OS 	Cell culture	N	0	0.3	0
+U-2197 	Cell culture	N	0.7	0.3	0
+U-251 MG 	Cell culture	N	0	0	0
+U-266/70 	Cell culture	N	0	0	0
+U-266/84 	Cell culture	N	0	0	0
+U-698 	Cell culture	N	0	0.4	0
+U-87 MG 	Cell culture	N	0	0	0
+WM-115 	Cell culture	N	0	0	0
+memory B-cell 	Blood	N	0	0	0
