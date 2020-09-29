@@ -16,4 +16,4 @@ https://maayanlab.cloud/Enrichr/ (Jensen compartments libraries for Cell Surface
 http://amigo.geneontology.org/amigo/ (GO:0005887)
 
 # T5.txt
-This table was used to generate extended Figure 3b and based on results given by https://maayanlab.cloud/Enrichr/ .
+This table was used to generate extended Figure 3b and based on results given by https://maayanlab.cloud/Enrichr/ with all Sars-Cov-1 proteins predicted to interact with human proteins.
