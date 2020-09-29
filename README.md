@@ -3,8 +3,8 @@ Data that was extracted from multiple databases used in the preprint https://www
 
 # T1.txt, T2.txt and T3.txt
 1. These tables were used to generate Extended Figure 1.
-   - T1.txt and T2.txt data were extracted from https://www.proteinatlas.org the first has NX expression values (calcuated through the consesus of multiple databases) and the second has subjective protein expression (immunohistochemistry).
-   - T3.txt data was extracted from http://biogps.org/ in arbitrary units (microarray)
+  - T1.txt and T2.txt data were extracted from https://www.proteinatlas.org the first has NX expression values (calcuated through the consesus of multiple databases) and the second has subjective protein expression (immunohistochemistry).
+  - T3.txt data was extracted from http://biogps.org/ in arbitrary units (microarray)
 
 # T4.txt
 2. This table was used to generate extended Figure 3a.
@@ -16,4 +16,4 @@ Data that was extracted from multiple databases used in the preprint https://www
     - http://amigo.geneontology.org/amigo/ (GO:0005887)
 
 # T5.txt
-This table was used to generate extended Figure 3b and based on results given by https://maayanlab.cloud/Enrichr/ with all human predicted to interact with viral spike protein.
+3. This table was used to generate extended Figure 3b and based on results given by https://maayanlab.cloud/Enrichr/ with all human predicted to interact with viral spike protein.
